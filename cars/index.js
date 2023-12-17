@@ -1,11 +1,11 @@
 var stop = false;
 
 $(document).ready(function() {
-    var stop = false;
     setTimeout(function() {
         if (!stop) {
             loadContent("assets/external_html/homepage.html");
             stop = true;
+            console.log(stop);
         }
     }, 0);
 
