@@ -1,19 +1,28 @@
-const container = document.getElementById('container');
-const registerBtn = document.getElementById('register');
-const loginBtn = document.getElementById('login');
-
-
-if(registerBtn != null && loginBtn != null) {
-    registerBtn.addEventListener('click', () => {
-        container.classList.add("active");
-    });
-
-    loginBtn.addEventListener('click', () => {
-        container.classList.remove("active");
-    });
-}
+var stop = false;
 
 $(document).ready(function() {
+    var stop = false;
+    setTimeout(function() {
+        if (!stop) {
+            loadContent("assets/external_html/homepage.html");
+            stop = true;
+        }
+    }, 0);
+
+    const container = document.getElementById('contentContainer');
+    const registerBtn = document.getElementById('register');
+    const loginBtn = document.getElementById('login');
+
+    if(registerBtn != null && loginBtn != null) {
+        registerBtn.addEventListener('click', () => {
+            container.classList.add("active");
+        });
+
+        loginBtn.addEventListener('click', () => {
+            container.classList.remove("active");
+        });
+    }
+
     $("#menuContainer").on("click", "#homepage", function() {
         loadContent("assets/external_html/homepage.html");
     });
