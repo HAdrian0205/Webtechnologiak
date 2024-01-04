@@ -92,7 +92,6 @@ body{
 
 .container .button-container button:disabled {
     background-color: #767676;
-    cursor: auto;
 }
 
 .container span{

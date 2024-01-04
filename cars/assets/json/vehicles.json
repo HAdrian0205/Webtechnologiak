@@ -48,5 +48,15 @@
         "mileage": "398520",
         "fuel": "D\u00edzel",
         "price": "1850000"
+    },
+    {
+        "carID": 6,
+        "image": "samara.jpg",
+        "brand": "Lada",
+        "model": "Samara",
+        "year": "1995",
+        "mileage": "298000",
+        "fuel": "Sziv\u00e1rv\u00e1ny",
+        "price": "250000"
     }
 ]

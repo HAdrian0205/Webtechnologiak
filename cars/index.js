@@ -455,7 +455,7 @@ function uploadFile(fileUrl) {
     formData.append("fileToUpload", file);
 
     var xhr = new XMLHttpRequest();
-    var url = 'upload.php'; 
+    var url = 'assets/php/upload.php'; 
     xhr.open("POST", url, true);
 
     xhr.send(formData);
