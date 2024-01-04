@@ -1,0 +1,62 @@
+[
+    {
+        "carID": 1,
+        "image": "1-BMW-3-Series.jpg",
+        "brand": "BMW22",
+        "model": "Komoly",
+        "year": "2020",
+        "mileage": "921931",
+        "fuel": "D\u00edzel",
+        "price": "2481281"
+    },
+    {
+        "carID": 2,
+        "image": "0x0.webp",
+        "brand": "Asetto",
+        "model": "Corsa",
+        "year": "2019",
+        "mileage": "42112",
+        "fuel": "Benzin",
+        "price": "84281482"
+    },
+    {
+        "carID": 3,
+        "image": "Lada_Niva_(VAZ_2121).jpg",
+        "brand": "Lada",
+        "model": "Niva",
+        "year": "1991",
+        "mileage": "604000",
+        "fuel": "Rozsda",
+        "price": "12121212"
+    },
+    {
+        "carID": 4,
+        "image": "k\u00e9p_2024-01-04_081242085.png",
+        "brand": "GAZ-13",
+        "model": "Csajka",
+        "year": "1973",
+        "mileage": "32210",
+        "fuel": "Benzin",
+        "price": "21000000"
+    },
+    {
+        "carID": 5,
+        "image": "Audi_A4.JPG",
+        "brand": "Audi",
+        "model": "A4 B8",
+        "year": "2008",
+        "mileage": "398520",
+        "fuel": "D\u00edzel",
+        "price": "1850000"
+    },
+    {
+        "carID": 6,
+        "image": "samara.jpg",
+        "brand": "Lada",
+        "model": "Samara",
+        "year": "1995",
+        "mileage": "298000",
+        "fuel": "Sziv\u00e1rv\u00e1ny",
+        "price": "250000"
+    }
+]
