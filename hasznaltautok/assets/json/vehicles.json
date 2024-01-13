@@ -1,0 +1,62 @@
+[
+    {
+        "carID": 1,
+        "image": "e46.jpg",
+        "brand": "BMW",
+        "model": "318d E46",
+        "year": "1998",
+        "mileage": "345129",
+        "fuel": "D\u00edzel",
+        "price": "1500000"
+    },
+    {
+        "carID": 2,
+        "image": "M3.jpg",
+        "brand": "BMW",
+        "model": "F80 M3",
+        "year": "2019",
+        "mileage": "112851",
+        "fuel": "Benzin",
+        "price": "12500000"
+    },
+    {
+        "carID": 3,
+        "image": "I5.jpg",
+        "brand": "BMW",
+        "model": "I5",
+        "year": "2023",
+        "mileage": "18917",
+        "fuel": "Elektromos",
+        "price": "32400000"
+    },
+    {
+        "carID": 4,
+        "image": "au a8.jpg",
+        "brand": "Audi",
+        "model": "A8",
+        "year": "2018",
+        "mileage": "78223",
+        "fuel": "D\u00edzel",
+        "price": "17999999"
+    },
+    {
+        "carID": 5,
+        "image": "au q7.jpg",
+        "brand": "Audi",
+        "model": "Q7",
+        "year": "2011",
+        "mileage": "198772",
+        "fuel": "D\u00edzel",
+        "price": "6200000"
+    },
+    {
+        "carID": 6,
+        "image": "au a4.jpg",
+        "brand": "Audi",
+        "model": "A4",
+        "year": "2020",
+        "mileage": "52809",
+        "fuel": "D\u00edzel",
+        "price": "12899999"
+    }
+]
